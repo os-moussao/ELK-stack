@@ -15,8 +15,6 @@ services:
           memory: 1G
         reservations:
           memory: 512M
-    volumes:
-      - elastic-data:/usr/share/elasticsearch/data
   kibana:
     image: docker.elastic.co/kibana/kibana:8.16.0
     container_name: kibana
@@ -29,6 +27,3 @@ services:
 
 networks:
   elastic-net: {}
-
-volumes:
-  elastic-data: {}
