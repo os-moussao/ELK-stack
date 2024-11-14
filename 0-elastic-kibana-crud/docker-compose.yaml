@@ -6,7 +6,7 @@ services:
     container_name: elasticsearch
     restart: always
     networks:
-      - elasticnet
+      - elastic-net
     ports:
       - 9200:9200
     deploy:
@@ -16,16 +16,19 @@ services:
         reservations:
           memory: 512M
     volumes:
-      - ./elastic/data:/usr/share/elasticsearch/data
+      - elastic-data:/usr/share/elasticsearch/data
   kibana:
     image: docker.elastic.co/kibana/kibana:8.16.0
     container_name: kibana
     ports:
       - 5601:5601
     networks:
-      - elasticnet
+      - elastic-net
     depends_on:
       - elasticsearch
 
 networks:
-  elasticnet: {}
+  elastic-net: {}
+
+volumes:
+  elastic-data: {}
