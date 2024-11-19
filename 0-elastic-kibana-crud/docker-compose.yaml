@@ -35,6 +35,12 @@ services:
       - 5601:5601
     networks:
       - elastic-net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:5601 > /dev/null || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 20s
     depends_on:
       elasticsearch:
         condition: service_healthy
