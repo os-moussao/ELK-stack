@@ -21,8 +21,8 @@ fi;
 
 echo "Setting file permissions...";
 chown -R root:root config/certs;
-find . -type d -exec chmod 750 \{\} \;;
-find . -type f -exec chmod 640 \{\} \;;
+find config/certs -type d -exec chmod 750 {} \;;
+find config/certs -type f -exec chmod 640 {} \;;
 
 echo "Waiting for Elasticsearch availability...";
 until curl -s --cacert config/certs/ca/ca.crt -u "elastic:$ELASTIC_PASSWORD" https://elasticsearch:9200;
