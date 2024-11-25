@@ -95,7 +95,7 @@ services:
     volumes:
       - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
       - certs:/usr/share/logstash/certs
-      - ./logstash/my-app.log:/usr/share/logstash/my-app/my-app.log
+      - ./app/my-app.log:/usr/share/logstash/my-app/my-app.log
     environment:
       HTTP_HOST: logstash
       HTTP_PORT: 9600
