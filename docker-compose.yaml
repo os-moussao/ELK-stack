@@ -94,9 +94,10 @@ services:
         condition: service_healthy
     volumes:
       - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
-      - certs:/usr/share/logstash/certs
+      - certs:/usr/share/logstash/config/certs
       - ./app/my-app.log:/usr/share/logstash/my-app/my-app.log
       - logstash-data:/usr/share/logstash/data
+    user: "0"
     environment:
       HTTP_HOST: logstash
       HTTP_PORT: 9600
