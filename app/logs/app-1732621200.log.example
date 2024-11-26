@@ -1,0 +1,72 @@
+{"level":"INFO","data":{"message":"Some info.","rand":9164},"date":"2024-11-26","time":"11:42:36","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":17165},"date":"2024-11-26","time":"11:42:38","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":11740},"date":"2024-11-26","time":"11:42:40","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":22795},"date":"2024-11-26","time":"11:42:42","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":28606},"date":"2024-11-26","time":"11:42:44","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":7499},"date":"2024-11-26","time":"11:42:46","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":26810},"date":"2024-11-26","time":"11:42:48","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":5192},"date":"2024-11-26","time":"11:42:50","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":17424},"date":"2024-11-26","time":"11:42:52","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":3826},"date":"2024-11-26","time":"11:42:54","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":1443},"date":"2024-11-26","time":"11:42:56","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":29974},"date":"2024-11-26","time":"11:42:58","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":25543},"date":"2024-11-26","time":"11:43:00","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":2225},"date":"2024-11-26","time":"11:43:02","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":31630},"date":"2024-11-26","time":"11:43:04","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":4710},"date":"2024-11-26","time":"11:43:06","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":32541},"date":"2024-11-26","time":"11:43:08","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":7759},"date":"2024-11-26","time":"11:43:10","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":26994},"date":"2024-11-26","time":"11:43:12","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":30012},"date":"2024-11-26","time":"11:43:14","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":19923},"date":"2024-11-26","time":"11:43:16","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":15306},"date":"2024-11-26","time":"11:43:18","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":10336},"date":"2024-11-26","time":"11:43:20","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":25870},"date":"2024-11-26","time":"11:43:22","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":31276},"date":"2024-11-26","time":"11:43:24","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":13780},"date":"2024-11-26","time":"11:43:26","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":12644},"date":"2024-11-26","time":"11:43:28","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":28437},"date":"2024-11-26","time":"11:43:30","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":18106},"date":"2024-11-26","time":"11:43:32","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":14278},"date":"2024-11-26","time":"11:43:34","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":10544},"date":"2024-11-26","time":"11:43:36","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":21333},"date":"2024-11-26","time":"11:43:38","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":13405},"date":"2024-11-26","time":"11:43:40","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":4940},"date":"2024-11-26","time":"11:43:42","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":7537},"date":"2024-11-26","time":"11:43:44","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":5140},"date":"2024-11-26","time":"11:43:46","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":17736},"date":"2024-11-26","time":"11:43:48","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":19905},"date":"2024-11-26","time":"11:43:50","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":648},"date":"2024-11-26","time":"11:43:52","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":30781},"date":"2024-11-26","time":"11:43:54","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":28202},"date":"2024-11-26","time":"11:43:56","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":29900},"date":"2024-11-26","time":"11:43:58","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":30671},"date":"2024-11-26","time":"11:44:00","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":28148},"date":"2024-11-26","time":"11:44:02","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":6722},"date":"2024-11-26","time":"11:44:04","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":20027},"date":"2024-11-26","time":"11:44:06","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":30237},"date":"2024-11-26","time":"11:44:08","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":601},"date":"2024-11-26","time":"11:44:10","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":5157},"date":"2024-11-26","time":"11:44:12","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":17785},"date":"2024-11-26","time":"11:44:14","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":23505},"date":"2024-11-26","time":"11:44:16","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":26928},"date":"2024-11-26","time":"11:44:18","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":8892},"date":"2024-11-26","time":"11:44:20","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":32695},"date":"2024-11-26","time":"11:44:22","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":25972},"date":"2024-11-26","time":"11:44:24","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":13644},"date":"2024-11-26","time":"11:44:26","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":12172},"date":"2024-11-26","time":"11:44:28","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":17929},"date":"2024-11-26","time":"11:44:30","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":283},"date":"2024-11-26","time":"11:44:32","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":7649},"date":"2024-11-26","time":"11:44:34","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":27198},"date":"2024-11-26","time":"11:44:36","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":25404},"date":"2024-11-26","time":"11:44:38","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":31603},"date":"2024-11-26","time":"11:44:40","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":2266},"date":"2024-11-26","time":"11:44:42","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":21230},"date":"2024-11-26","time":"11:44:44","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":26841},"date":"2024-11-26","time":"11:44:46","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":1664},"date":"2024-11-26","time":"11:44:48","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":21490},"date":"2024-11-26","time":"11:44:51","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":28280},"date":"2024-11-26","time":"11:44:53","index":"1732621200"}
+{"level":"WARN","data":{"message":"Some warning !","rand":31234},"date":"2024-11-26","time":"11:44:55","index":"1732621200"}
+{"level":"INFO","data":{"message":"Some info.","rand":22943},"date":"2024-11-26","time":"11:44:57","index":"1732621200"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":32073},"date":"2024-11-26","time":"11:44:59","index":"1732621200"}

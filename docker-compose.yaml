@@ -105,6 +105,11 @@ services:
       XPACK_MONITORING_ELASTICSEARCH_HOSTS: https://elasticsearch:9200,http://elasticsearch:9200
       ELASTIC_PASSWORD: $ELASTIC_PASSWORD
 
+  app:
+    container_name: app
+    build: ./app
+    volumes:
+      - ./app:/app
 volumes:
   certs: {}
   elastic-data: {}

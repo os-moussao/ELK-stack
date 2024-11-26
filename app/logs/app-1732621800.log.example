@@ -1,0 +1,36 @@
+{"level":"INFO","data":{"message":"Some info.","rand":3500},"date":"2024-11-26","time":"11:50:00","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":5676},"date":"2024-11-26","time":"11:50:02","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":14804},"date":"2024-11-26","time":"11:50:04","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":32271},"date":"2024-11-26","time":"11:50:06","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":6631},"date":"2024-11-26","time":"11:50:08","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":30537},"date":"2024-11-26","time":"11:50:10","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":3540},"date":"2024-11-26","time":"11:50:12","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":5706},"date":"2024-11-26","time":"11:50:14","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":15839},"date":"2024-11-26","time":"11:50:16","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":31366},"date":"2024-11-26","time":"11:50:18","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":2457},"date":"2024-11-26","time":"11:50:20","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":7238},"date":"2024-11-26","time":"11:50:22","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":15528},"date":"2024-11-26","time":"11:50:24","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":22299},"date":"2024-11-26","time":"11:50:26","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":21114},"date":"2024-11-26","time":"11:50:28","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":25440},"date":"2024-11-26","time":"11:50:30","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":15059},"date":"2024-11-26","time":"11:50:32","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":29395},"date":"2024-11-26","time":"11:50:34","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":12834},"date":"2024-11-26","time":"11:50:36","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":23764},"date":"2024-11-26","time":"11:50:38","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":2000},"date":"2024-11-26","time":"11:50:40","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":6135},"date":"2024-11-26","time":"11:50:42","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":10959},"date":"2024-11-26","time":"11:50:44","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":16630},"date":"2024-11-26","time":"11:50:46","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":19252},"date":"2024-11-26","time":"11:50:48","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":24591},"date":"2024-11-26","time":"11:50:50","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":31691},"date":"2024-11-26","time":"11:50:52","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":23643},"date":"2024-11-26","time":"11:50:54","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":14071},"date":"2024-11-26","time":"11:50:56","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":21964},"date":"2024-11-26","time":"11:50:58","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":11223},"date":"2024-11-26","time":"11:51:00","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":19915},"date":"2024-11-26","time":"11:51:02","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":22636},"date":"2024-11-26","time":"11:51:04","index":"1732621800"}
+{"level":"ERROR","data":{"message":"! Some error !","rand":8443},"date":"2024-11-26","time":"11:51:06","index":"1732621800"}
+{"level":"INFO","data":{"message":"Some info.","rand":19613},"date":"2024-11-26","time":"11:51:08","index":"1732621800"}
+{"level":"WARN","data":{"message":"Some warning !","rand":944},"date":"2024-11-26","time":"11:51:10","index":"1732621800"}
