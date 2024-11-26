@@ -1,5 +1,0 @@
-keep writing logs here...
-logstash will emmit each line as a single log
-it keeps track of the current position
-when it starts it reads where it left off
-whithout missing lines that were added while it was stopped

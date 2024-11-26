@@ -95,7 +95,7 @@ services:
     volumes:
       - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
       - certs:/usr/share/logstash/config/certs
-      - ./app/my-app.log:/usr/share/logstash/my-app/my-app.log
+      - ./app/logs:/usr/share/logstash/logs/my-app
       - logstash-data:/usr/share/logstash/data
     user: "0"
     environment:
