@@ -17,8 +17,7 @@ while [ true ]; do
 \"level\":\"${logLevels[rand]}\",\
 \"data\":{\"message\":\"${logMessages[rand]}\",\
 \"rand\":$RANDOM},\
-\"date\":\"$(date +%F)\",\
-\"time\":\"$(date +%T)\",\
+\"datetime\":\"$(date -u +%FT%T.%3NZ)\",\
 \"index\":\"$index\"\
 }";
   tee <<< $log -a ./logs/app-$index.log;
