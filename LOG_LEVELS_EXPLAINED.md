@@ -1,5 +1,8 @@
 # Log Levels explained
 
+AI generated.
+
+## Levels
 `INFO`:
 - Purpose: Give general information about the application’s normal operations.
 - Use Case:
